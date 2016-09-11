@@ -1,0 +1,15 @@
+﻿Сборка начата 10.09.2016 17:09:43.
+     1>Проект "E:\l1\l1\GraphicsEditor\GraphicsEditor.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         F:\Visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GraphicsEditor.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GraphicsEditor.cpp
+         GraphicsEditor.cpp
+       Link:
+         F:\Visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\l1\l1\Debug\GraphicsEditor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\l1\l1\Debug\GraphicsEditor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\l1\l1\Debug\GraphicsEditor.lib" /MACHINE:X86 /SAFESEH Debug\GraphicsEditor.res
+         Debug\GraphicsEditor.obj
+         Debug\stdafx.obj
+         GraphicsEditor.vcxproj -> E:\l1\l1\Debug\GraphicsEditor.exe
+     1>Сборка проекта "E:\l1\l1\GraphicsEditor\GraphicsEditor.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.63
